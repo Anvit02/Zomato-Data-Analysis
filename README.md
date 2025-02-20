@@ -1,2 +1,12 @@
-# Zomato-Data-Analysis
-Conducted an exploratory data analysis (EDA) on Zomato restaurant data to uncover trends in ratings, pricing, and customer preferences. Preprocessed and cleaned the dataset using Pandas, handling missing values and converting data types for accurate insights. Used Seaborn & Matplotlib for data visualization, including bar plots, heatmaps, histograms, and box plots to analyze restaurant popularity, cost distribution, and online order trends. Designed a heatmap visualization to compare restaurant types with online orders, offering insights into customer behavior and market trends.
+A data analysis project using Python, Pandas, Matplotlib, and Seaborn to explore Zomato restaurant data. The project includes data cleaning, visualization, and insights on ratings, online orders, cost distribution, and restaurant preferences.
+
+Features
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Visualizations (Bar plots, Heatmaps, Box plots)
+Insights on restaurant trends
+
+Tech Stack
+Python
+Pandas & NumPy
+Matplotlib & Seaborn
